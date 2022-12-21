@@ -8,6 +8,7 @@
 	</p>
 </h3>
 
+📘 For more examples please check the examples folder [here](https://github.com/kitkotio/KitKotJS/tree/main/examples), documentation can also be found [here](https://docs.kitkot.io/)
 ```js
 const KitKot = require('kitkot');
 
