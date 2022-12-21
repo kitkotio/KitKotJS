@@ -1,3 +1,4 @@
+
 <p align="center"><img src="https://kitkot.io/img/logo.png?width=128&height=128" alt="kitkot_image"/></p>
 
 ---
@@ -30,3 +31,9 @@ const kitkot = new KitKot({
 		⚙️ Library Methods
 	</p>
 </h3>
+
+- [x] Follow Users
+- [x] Like Videos
+- [x] Post Comments
+- [x] Scrape Information (User, Video, etc)
+- [x] Join lives & talk/fetch live messages
