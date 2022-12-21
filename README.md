@@ -1,4 +1,5 @@
 
+
 <p align="center"><img src="https://kitkot.io/img/logo.png?width=128&height=128" alt="kitkot_image"/></p>
 
 ---
@@ -7,6 +8,8 @@
 	NodeJS Package For The <a url="https://kitkot.io">KitKot</a> API
 	</p>
 </h3>
+
+`npm install kitkot`
 
 📘 For more examples please check the examples folder [here](https://github.com/kitkotio/KitKotJS/tree/main/examples), documentation can also be found [here](https://docs.kitkot.io/)
 ```js
